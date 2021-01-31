@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnalysisReport Version="1.0">
+  <ProcessId>14412</ProcessId>
+  <ReportCreationTime>2020-12-08T17:15:10.6047371+01:00</ReportCreationTime>
+  <ReportDirectory>h:\Windows7\Desktop\Cuda\template\analysis\template201208_000\template201208_000_Capture_000</ReportDirectory>
+  <ReportFile>h:\Windows7\Desktop\Cuda\template\analysis\template201208_000\template201208_000_Capture_000\template201208_000_Capture_000.nvreport</ReportFile>
+  <CaptureStartQpcTimestamp>15384615892075</CaptureStartQpcTimestamp>
+  <CaptureStartNveTimestamp>5528244289292774</CaptureStartNveTimestamp>
+  <CaptureStartNveFrequency>3593000000</CaptureStartNveFrequency>
+  <CaptureEndQpcTimestamp>15384700918448</CaptureEndQpcTimestamp>
+  <CaptureEndNveTimestamp>5528274841390777</CaptureEndNveTimestamp>
+  <CaptureStartRdtscTimestamp>5528244289292954</CaptureStartRdtscTimestamp>
+  <CaptureEndRdtscTimestamp>5528274841390993</CaptureEndRdtscTimestamp>
+  <CaptureStartFileTimeTimestamp>132519177107810912</CaptureStartFileTimeTimestamp>
+  <CaptureEndFileTimeTimestamp>132519177192934809</CaptureEndFileTimeTimestamp>
+</AnalysisReport>
