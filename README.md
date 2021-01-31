@@ -1,6 +1,6 @@
 # CUDA_lab_hamming_one
 
-Solution for Hamming one problem. It works in O(n*l*logn) time complexity.
+Solution for Hamming one problem. It works in O(n\*l\*logn) time complexity.
 
 Few thing worth mentioning:
 1. Hashing function doesn't use modulo operation, since I calculate remainder by overflowing long long integer.
